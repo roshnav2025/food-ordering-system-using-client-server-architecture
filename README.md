@@ -32,3 +32,12 @@ Instructions to Run the Code:
 9. To stop the server and client, simply press Ctrl+C in their respective terminal windows.
 
 Please note that the code assumes that the server and client are running on the same machine ('localhost'). If you want to run the client and server on different machines, you need to modify the server address in both the server and client code to reflect the server's IP address or hostname.
+
+OUTPUT
+
+OUTPUT
+1.SERVER TERMINAL
+![image](https://github.com/roshnav2025/food-ordering-system-using-client-server-architecture/assets/147706862/7afba58b-21d0-43f5-86d7-b7770c0606c9)
+2.CLIENT TERMINAL
+![image](https://github.com/roshnav2025/food-ordering-system-using-client-server-architecture/assets/147706862/81ce6a0d-db88-43a7-beef-ede3f99d98f4)
+
